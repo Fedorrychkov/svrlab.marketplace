@@ -1,0 +1,9 @@
+# for PM2
+
+apps:
+  - script: ./server/index.js
+    name: 'svr.marketplace'
+    env:
+      NODE_ENV: development
+    env_production:
+      NODE_ENV: production
