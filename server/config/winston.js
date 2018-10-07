@@ -1,13 +1,10 @@
 var appRoot = require('app-root-path');
 import winston, { format } from 'winston';
 const moment = require('moment');
-import chalk from 'chalk';
 require('dotenv').config();
 
 const { combine, timestamp, label, printf } = format;
 
-const error = chalk.bold.red;
-const warning = chalk.keyword('orange');
 
 const myFormat = printf(info => {
     return `${moment().format('DD.MM.YYYY HH:mm:ss Z')} [${info.label}] ${info.level}: ${info.message}`;
