@@ -11,7 +11,7 @@ const show  = {
 const myFormat = info => `${moment().format('DD.MM.YYYY HH:mm:ss Z')}: ${info}`;
 
 
-export default class log {
+export default class Log {
     
     err(prop) {
         console.log(show.err(myFormat(prop)));
