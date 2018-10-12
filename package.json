@@ -19,6 +19,7 @@
     "hbs": "^4.0.1",
     "lodash": "^4.17.11",
     "moment": "^2.22.2",
+    "mysql": "^2.16.0",
     "mysql2": "^1.6.1",
     "nocache": "^2.0.0",
     "node-sass": "^4.9.3",
@@ -27,8 +28,10 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4",
+    "sequelize": "^4.39.0",
     "sequelize-cli": "^4.1.1",
     "url": "^0.11.0",
+    "uuid": "^3.3.2",
     "winston": "^3.1.0"
   },
   "scripts": {

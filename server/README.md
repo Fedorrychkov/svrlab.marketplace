@@ -16,3 +16,15 @@ Usage: <code>winston.info(`message')</code><br>
 
  ## Syntax
  For development use ES Next syntax. We have async/await and class syntax.
+
+
+# Start Development
+Чтобы начать разработку нужно установить все зависимости проекта, а так же настроить базу данных.
+Измените название файла db_config.dist  на config.json и впишите данные пользователя базы данных в поля в обьекте 'development'. После этого вам нужно провести все миграции и заполнить базу данных тестовыми данными. Перейдите в папку сервера, cd server и вводите команды по очереди: 
+
+* Миграции `../node_modules/.bin/sequelize db:migrate`
+* Тестовые данные `../node_modules/.bin/sequelize db:seed:all`
+
+Чтобы ознакомится с командами Sequelize советую почитать [доку](http://docs.sequelizejs.com/manual/tutorial/migrations.html#installing-cli).
+
+Актуальные роуты сервера находятся в папке server/routes
