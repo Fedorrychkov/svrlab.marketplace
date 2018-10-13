@@ -1,6 +1,9 @@
 {
   "name": "svrlab.marketplace",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "author": "Fyodor Rychkov",
+  "description": "Marketplace with Sequelize",
+  "keywords": ["marketplace", "svrlab", "sequelize", "express", "reactjs", "adminpanel", "public"],
   "private": true,
   "dependencies": {
     "app-root-path": "^2.1.0",

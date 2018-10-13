@@ -1,3 +1,8 @@
+# SVR Market
+---
+This application developed for my father. But, i think, this project can used like boilerplate for development some markets.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

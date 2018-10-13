@@ -2345,3 +2345,6 @@ Error: Cannot find module '../models/users'
 13.10.2018 22:40:36 +03:00 [logging] info: app is working on http://localhost:8080
 13.10.2018 22:40:37 +03:00 [logging] info: ::1 - - [13/Oct/2018:19:40:37 +0000] "GET /api/v1/admin/users HTTP/1.1" 200 601 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
 
+13.10.2018 22:53:04 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 22:54:17 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 22:55:09 +03:00 [logging] info: app is working on http://localhost:8080
