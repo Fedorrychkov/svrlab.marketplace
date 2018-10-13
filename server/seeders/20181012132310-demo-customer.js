@@ -18,8 +18,8 @@ module.exports = {
     const currentDateTime = moment().format();
     return queryInterface.bulkInsert('Users', [{
       id: uuidv4(),
-      firstName: 'Fedor',
-      lastName: 'Emelianenko',
+      firstName: 'Федор',
+      lastName: 'Емельяненко',
       email: 'demo@demo.com',
       password: '1111',
       userGroup: 'customer',
