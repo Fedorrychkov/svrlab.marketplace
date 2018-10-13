@@ -1,1 +1,2088 @@
 09.10.2018 03:42:45 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:31:34 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:32:13 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:36:58 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:37:09 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:37:25 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:46:01 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:46:26 +03:00 [logging] error: uncaughtException: app.Router is not a function
+TypeError: app.Router is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+13.10.2018 03:46:50 +03:00 [logging] error: uncaughtException: app.Router is not a function
+TypeError: app.Router is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:20)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+13.10.2018 03:47:27 +03:00 [logging] error: uncaughtException: Cannot read property 'length' of undefined
+TypeError: Cannot read property 'length' of undefined
+    at pathtoRegexp (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/path-to-regexp/index.js:63:49)
+    at new Layer (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/express/lib/router/layer.js:45:17)
+    at Function.route (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/express/lib/router/index.js:494:15)
+    at Function.route (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/express/lib/application.js:256:23)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:20)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+13.10.2018 03:53:40 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:53:49 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:56:04 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:56:14 +03:00 [logging] info: ::1 - - [13/Oct/2018:00:56:14 +0000] "GET /api/v1/users HTTP/1.1" 200 14 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 03:56:14 +03:00 [logging] info: ::1 - - [13/Oct/2018:00:56:14 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8080/api/v1/users" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 03:57:20 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:57:22 +03:00 [logging] info: ::1 - - [13/Oct/2018:00:57:22 +0000] "GET /api/v1/users HTTP/1.1" 200 15 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 03:57:50 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:58:12 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:58:28 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:59:02 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:59:05 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 03:59:25 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:01:26 +03:00 [logging] info: ::1 - - [13/Oct/2018:01:01:26 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 04:03:26 +03:00 [logging] info: ::1 - - [13/Oct/2018:01:03:26 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 04:03:34 +03:00 [logging] error: uncaughtException: Cannot find module 'Sequelize'
+Error: Cannot find module 'Sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:581:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:507:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+13.10.2018 04:03:52 +03:00 [logging] error: uncaughtException: Cannot find module 'Sequelize'
+Error: Cannot find module 'Sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:581:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:507:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+13.10.2018 04:04:17 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:04:43 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token (2:17)
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token (2:17)
+[0m [90m 1 | [39m[32m'use strict'[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 | [39m[36mimport[39m [33mSequelize[39m as sequelize[33m,[39m {[33mDataTypes[39m} from [32m'sequelize'[39m[33m;[39m
+ [90m   | [39m                 [31m[1m^[22m[39m
+ [90m 3 | [39m
+ [90m 4 | [39m[36mexport[39m [36mconst[39m [33mUsers[39m [33m=[39m () [33m=>[39m {
+ [90m 5 | [39m  [36mconst[39m users [33m=[39m sequelize[33m.[39mdefine([32m'Users'[39m[33m,[39m {[0m
+    at Parser.pp$5.raise (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expectContextual (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1723:39)
+    at Parser.pp$1.parseImport (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2869:10)
+    at Parser.pp$1.parseStatement (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1884:49)
+    at Parser.pp$1.parseBlockBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2268:21)
+    at Parser.pp$1.parseTopLevel (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1778:8)
+    at Parser.parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1673:17)
+    at parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:7305:37)
+    at File.parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:485:15)
+13.10.2018 04:05:01 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:07:40 +03:00 [logging] info: ::1 - - [13/Oct/2018:01:07:40 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 04:09:40 +03:00 [logging] info: ::1 - - [13/Oct/2018:01:09:40 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 04:10:38 +03:00 [logging] error: uncaughtException: _sequelize2.default.define is not a function
+TypeError: _sequelize2.default.define is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:34)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 04:10:54 +03:00 [logging] error: uncaughtException: _sequelize2.default.define is not a function
+TypeError: _sequelize2.default.define is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:32)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 04:11:05 +03:00 [logging] error: uncaughtException: _sequelize2.default.define is not a function
+TypeError: _sequelize2.default.define is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:25)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 04:11:17 +03:00 [logging] error: uncaughtException: _sequelize2.default.define is not a function
+TypeError: _sequelize2.default.define is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:25)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 04:11:52 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:13:57 +03:00 [logging] info: ::1 - - [13/Oct/2018:01:13:57 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 04:15:57 +03:00 [logging] info: ::1 - - [13/Oct/2018:01:15:57 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 04:19:20 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:19:30 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:20:24 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:20:50 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 04:21:40 +03:00 [logging] error: uncaughtException: Cannot read property 'define' of undefined
+TypeError: Cannot read property 'define' of undefined
+    at new module.exports (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:27)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+13.10.2018 04:23:18 +03:00 [logging] error: uncaughtException: Class constructor Model cannot be invoked without 'new'
+TypeError: Class constructor Model cannot be invoked without 'new'
+    at new Users (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:42:117)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+13.10.2018 04:23:57 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 04:25:27 +03:00 [logging] error: uncaughtException: Class constructor Model cannot be invoked without 'new'
+TypeError: Class constructor Model cannot be invoked without 'new'
+    at new Users (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:42:117)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+13.10.2018 04:40:34 +03:00 [logging] error: uncaughtException: Class constructor Model cannot be invoked without 'new'
+TypeError: Class constructor Model cannot be invoked without 'new'
+    at new Users (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:42:117)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+13.10.2018 04:42:48 +03:00 [logging] error: uncaughtException: Class constructor Model cannot be invoked without 'new'
+TypeError: Class constructor Model cannot be invoked without 'new'
+    at new Users (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:42:117)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+13.10.2018 04:43:43 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:43:48 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:44:54 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:45:15 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:45:35 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:45:47 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:46:11 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:46:15 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:46:27 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:51:04 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:51:28 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:51:34 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:51:37 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:52:02 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:52:40 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:52:51 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:53:04 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:58:19 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:58:25 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 04:58:49 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token (7:9)
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token (7:9)
+[0m [90m  5 | [39m
+ [90m  6 | [39m[36mclass[39m [33mUsers[39m [36mextends[39m model {
+[31m[1m>[22m[39m[90m  7 | [39m  console[33m.[39mlog([32m'sss'[39m)[33m;[39m
+ [90m    | [39m         [31m[1m^[22m[39m
+ [90m  8 | [39m  static init(sequelize[33m,[39m [33mDataTypes[39m) {
+ [90m  9 | [39m    [36mreturn[39m [36msuper[39m[33m.[39minit(
+ [90m 10 | [39m      {[0m
+    at Parser.pp$5.raise (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$1.parseClassBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2554:14)
+    at Parser.pp$1.parseClass (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2406:8)
+    at Parser.pp$1.parseStatement (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1843:19)
+    at Parser.pp$1.parseBlockBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2268:21)
+    at Parser.pp$1.parseTopLevel (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1778:8)
+    at Parser.parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1673:17)
+    at parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:7305:37)
+    at File.parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:485:15)
+13.10.2018 04:59:40 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: missing super() call in constructor
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: missing super() call in constructor
+[0m [90m  5 | [39m
+ [90m  6 | [39m[36mclass[39m [33mUsers[39m [36mextends[39m model {
+[31m[1m>[22m[39m[90m  7 | [39m  constructor() {
+ [90m    | [39m  [31m[1m^[22m[39m
+ [90m  8 | [39m    console[33m.[39mlog([32m'sss'[39m)[33m;[39m   
+ [90m  9 | [39m  }
+ [90m 10 | [39m  static init(sequelize[33m,[39m [33mDataTypes[39m) {[0m
+    at File.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+    at NodePath.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/index.js:140:26)
+    at ClassTransformer.pushBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:276:24)
+    at ClassTransformer.buildBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:229:10)
+    at ClassTransformer.run (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:143:10)
+    at PluginPass.ClassExpression (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/index.js:48:60)
+    at newFn (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/visitors.js:276:21)
+    at NodePath._call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:76:18)
+    at NodePath.call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:48:17)
+    at NodePath.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:105:12)
+13.10.2018 04:59:44 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: missing super() call in constructor
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: missing super() call in constructor
+[0m [90m  5 | [39m
+ [90m  6 | [39m[36mclass[39m [33mUsers[39m [36mextends[39m model {
+[31m[1m>[22m[39m[90m  7 | [39m  constructor() {
+ [90m    | [39m  [31m[1m^[22m[39m
+ [90m  8 | [39m    console[33m.[39mlog([32m'sss'[39m)[33m;[39m   
+ [90m  9 | [39m  }
+ [90m 10 | [39m  static init(sequelize[33m,[39m [33mDataTypes[39m) {[0m
+    at File.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+    at NodePath.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/index.js:140:26)
+    at ClassTransformer.pushBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:276:24)
+    at ClassTransformer.buildBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:229:10)
+    at ClassTransformer.run (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:143:10)
+    at PluginPass.ClassExpression (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/index.js:48:60)
+    at newFn (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/visitors.js:276:21)
+    at NodePath._call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:76:18)
+    at NodePath.call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:48:17)
+    at NodePath.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:105:12)
+13.10.2018 05:00:22 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 05:00:39 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 05:00:46 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 05:00:57 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 05:01:09 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:13)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 05:01:23 +03:00 [logging] error: uncaughtException: Class constructor Model cannot be invoked without 'new'
+TypeError: Class constructor Model cannot be invoked without 'new'
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 05:02:43 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:02:52 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:03:09 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:03:35 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:03:57 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token (30:9)
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token (30:9)
+[0m [90m 28 | [39m  }
+ [90m 29 | [39m
+[31m[1m>[22m[39m[90m 30 | [39m  public getAll() {
+ [90m    | [39m         [31m[1m^[22m[39m
+ [90m 31 | [39m    [36mreturn[39m [36mthis[39m[33m.[39mfindAll()[33m;[39m
+ [90m 32 | [39m  }
+ [90m 33 | [39m[0m
+    at Parser.pp$5.raise (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$1.parseClassBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2554:14)
+    at Parser.pp$1.parseClass (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2406:8)
+    at Parser.pp$1.parseStatement (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1843:19)
+    at Parser.pp$1.parseBlockBody (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:2268:21)
+    at Parser.pp$1.parseTopLevel (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1778:8)
+    at Parser.parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1673:17)
+    at parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:7305:37)
+    at File.parse (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:485:15)
+13.10.2018 05:04:03 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:04:46 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:06:48 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:06:48 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:08:00 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:08:20 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:08:45 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:08:52 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:10:53 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:10:53 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:11:06 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:12:47 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:20:43 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:20:43 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:22:14 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:24:19 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:24:19 +0000] "GET /api/v1/users HTTP/1.1" - - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:24:37 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:24:46 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:24:49 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:24:49 +0000] "GET /api/v1/users HTTP/1.1" 500 2943 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:25:19 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:25:19 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:25:19 +0000] "GET /api/v1/users HTTP/1.1" 500 2943 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:25:42 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:26:05 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:26:07 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:26:07 +0000] "GET /api/v1/users HTTP/1.1" 200 2 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:26:21 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:27:26 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:27:47 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:28:28 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:28:58 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:29:00 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:29:00 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:31:36 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:31:36 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:31:36 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:31:49 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:31:51 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:41:11 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:41:22 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:41:32 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:41:37 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:41:37 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:42:30 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token, expected , (28:23)
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: Unexpected token, expected , (28:23)
+[0m [90m 26 | [39m  static async getAll() {
+ [90m 27 | [39m    [36mtry[39m {
+[31m[1m>[22m[39m[90m 28 | [39m      console[33m.[39mlog([33mUsers[39m[33m;[39m
+ [90m    | [39m                       [31m[1m^[22m[39m
+ [90m 29 | [39m      [36mreturn[39m await [36mthis[39m[33m.[39mfindAll()[33m;[39m
+ [90m 30 | [39m    } [36mcatch[39m (er) {
+ [90m 31 | [39m      console[33m.[39mlog([32m'errr'[39m[33m,[39m er)[0m
+    at Parser.pp$5.raise (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseCallExpressionArguments (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:3564:12)
+    at Parser.pp$3.parseSubscripts (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babylon/lib/index.js:3344:19)
+13.10.2018 05:42:33 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:42:34 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:42:34 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:42:50 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:42:50 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:52:11 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:52:15 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:52:15 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 05:52:30 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 05:52:51 +03:00 [logging] info: ::1 - - [13/Oct/2018:02:52:51 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 06:04:26 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:04:33 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:04:55 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:05:41 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:06:05 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:08:01 +03:00 [logging] error: uncaughtException: sequelize.define is not a function
+TypeError: sequelize.define is not a function
+    at module.exports (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:27)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+13.10.2018 06:08:16 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:11:16 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:11:52 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:12:23 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:12:51 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 06:12:59 +03:00 [logging] info: ::1 - - [13/Oct/2018:03:12:59 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:34:52 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:34:58 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:34:58 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:35:26 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:35:31 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:35:31 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:35:58 +03:00 [logging] error: uncaughtException: Class constructor Model cannot be invoked without 'new'
+TypeError: Class constructor Model cannot be invoked without 'new'
+    at new Users (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:50:117)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+13.10.2018 14:36:13 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:36:15 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:36:15 +0000] "GET /api/v1/users HTTP/1.1" 200 11 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:36:27 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:39:18 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:39:22 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:39:22 +0000] "GET /api/v1/users HTTP/1.1" 200 2 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:39:29 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:40:00 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:40:09 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:40:21 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:41:59 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:43:56 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:43:57 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:43:57 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:44:15 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:44:19 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:44:23 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:44:23 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:45:17 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:46:17 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:46:23 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:46:23 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:46:34 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:46:53 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:46:57 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:46:57 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:47:12 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:47:17 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:47:17 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:47:31 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:48:46 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:48:53 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:48:53 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:49:09 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:49:10 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:49:10 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:49:18 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:49:33 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: 'super.*' is not allowed before super()
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: 'super.*' is not allowed before super()
+[0m [90m  5 | [39m  constructor(sequelize[33m,[39m [33mDataTypes[39m) {
+ [90m  6 | [39m    console[33m.[39mlog([32m'NOT'[39m)[33m;[39m
+[31m[1m>[22m[39m[90m  7 | [39m    [36mreturn[39m [36msuper[39m[33m.[39minit(
+ [90m    | [39m           [31m[1m^[22m[39m
+ [90m  8 | [39m      {
+ [90m  9 | [39m        id[33m:[39m [33mDataTypes[39m[33m.[39m[33mSTRING[39m[33m,[39m
+ [90m 10 | [39m        firstName[33m:[39m [33mDataTypes[39m[33m.[39m[33mSTRING[39m[33m,[39m[0m
+    at File.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+    at NodePath.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/index.js:140:26)
+    at ClassTransformer.Super (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:55:18)
+    at NodePath._call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:76:18)
+    at NodePath.call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:48:17)
+    at NodePath.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:105:12)
+    at TraversalContext.visitQueue (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:150:16)
+    at TraversalContext.visitSingle (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:108:19)
+    at TraversalContext.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:192:19)
+    at Function.traverse.node (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/index.js:114:17)
+13.10.2018 14:49:49 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: 'super.*' is not allowed before super()
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: 'super.*' is not allowed before super()
+[0m [90m  5 | [39m  constructor(sequelize[33m,[39m [33mDataTypes[39m) {
+ [90m  6 | [39m    console[33m.[39mlog([32m'NOT'[39m)[33m;[39m
+[31m[1m>[22m[39m[90m  7 | [39m    [36msuper[39m[33m.[39minit(
+ [90m    | [39m    [31m[1m^[22m[39m
+ [90m  8 | [39m      {
+ [90m  9 | [39m        id[33m:[39m [33mDataTypes[39m[33m.[39m[33mSTRING[39m[33m,[39m
+ [90m 10 | [39m        firstName[33m:[39m [33mDataTypes[39m[33m.[39m[33mSTRING[39m[33m,[39m[0m
+    at File.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+    at NodePath.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/index.js:140:26)
+    at ClassTransformer.Super (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:55:18)
+    at NodePath._call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:76:18)
+    at NodePath.call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:48:17)
+    at NodePath.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:105:12)
+    at TraversalContext.visitQueue (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:150:16)
+    at TraversalContext.visitSingle (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:108:19)
+    at TraversalContext.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:192:19)
+    at Function.traverse.node (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/index.js:114:17)
+13.10.2018 14:50:03 +03:00 [logging] error: uncaughtException: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: 'super.*' is not allowed before super()
+SyntaxError: /home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js: 'super.*' is not allowed before super()
+[0m [90m 4 | [39m[36mclass[39m [33mUsers[39m [36mextends[39m [33mSequelize[39m[33m.[39m[33mModel[39m {
+ [90m 5 | [39m  constructor(sequelize[33m,[39m [33mDataTypes[39m) {
+[31m[1m>[22m[39m[90m 6 | [39m    [36msuper[39m[33m.[39minit(
+ [90m   | [39m    [31m[1m^[22m[39m
+ [90m 7 | [39m      {
+ [90m 8 | [39m        id[33m:[39m [33mDataTypes[39m[33m.[39m[33mSTRING[39m[33m,[39m
+ [90m 9 | [39m        firstName[33m:[39m [33mDataTypes[39m[33m.[39m[33mSTRING[39m[33m,[39m[0m
+    at File.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+    at NodePath.buildCodeFrameError (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/index.js:140:26)
+    at ClassTransformer.Super (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-plugin-transform-es2015-classes/lib/vanilla.js:55:18)
+    at NodePath._call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:76:18)
+    at NodePath.call (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:48:17)
+    at NodePath.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/path/context.js:105:12)
+    at TraversalContext.visitQueue (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:150:16)
+    at TraversalContext.visitSingle (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:108:19)
+    at TraversalContext.visit (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/context.js:192:19)
+    at Function.traverse.node (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-traverse/lib/index.js:114:17)
+13.10.2018 14:50:12 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:50:14 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:50:14 +0000] "GET /api/v1/users HTTP/1.1" 200 2 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:50:29 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:53:06 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:53:07 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:53:07 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:55:30 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:56:08 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:56:56 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 14:56:59 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:56:59 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:57:01 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:57:01 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:57:08 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:57:08 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:57:44 +03:00 [logging] info: ::1 - - [13/Oct/2018:11:57:44 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 14:58:48 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:02:06 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:02:38 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:03:23 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:03:45 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:03:59 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:04:19 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:05:43 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:07:24 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:07:44 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:07:54 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:5:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:11:02 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:5:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:11:09 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:5:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:11:21 +03:00 [logging] error: uncaughtException: Cannot read property 'env' of undefined
+TypeError: Cannot read property 'env' of undefined
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:3:28)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:11:36 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:5:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:13:11 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:14:36 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:15:14 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:16:17 +03:00 [logging] error: uncaughtException: A column called 'id' was added to the attributes of 'Users' but not marked with 'primaryKey: true'
+Error: A column called 'id' was added to the attributes of 'Users' but not marked with 'primaryKey: true'
+    at Function._addDefaultAttributes (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:111:15)
+    at Function.init (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:841:10)
+    at Function.init (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:7:5)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:16:16)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+13.10.2018 15:16:29 +03:00 [logging] error: uncaughtException: A column called 'id' was added to the attributes of 'Users' but not marked with 'primaryKey: true'
+Error: A column called 'id' was added to the attributes of 'Users' but not marked with 'primaryKey: true'
+    at Function._addDefaultAttributes (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:111:15)
+    at Function.init (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:841:10)
+    at Function.init (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:7:5)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:16:16)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+13.10.2018 15:17:39 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:17:44 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:18:19 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:18:48 +03:00 [logging] error: uncaughtException: Users is not defined
+ReferenceError: Users is not defined
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+13.10.2018 15:18:56 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:19:18 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:19:19 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:19:19 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:19:35 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:19:36 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:19:36 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:19:57 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:20:18 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:21:19 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:21:59 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:23:48 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:23:59 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:23:59 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:24:56 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:25:01 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:25:01 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:34:50 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:35:12 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:35:22 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:35:52 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:36:03 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:36:33 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:36:43 +03:00 [logging] error: uncaughtException: Cannot find module './models'
+Error: Cannot find module './models'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:581:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:507:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+13.10.2018 15:36:50 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:37:58 +03:00 [logging] error: uncaughtException: sequelize.addModels is not a function
+TypeError: sequelize.addModels is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:24:13)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:38:29 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:39:40 +03:00 [logging] error: uncaughtException: dbConfig is not defined
+ReferenceError: dbConfig is not defined
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:33:5)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:40:01 +03:00 [logging] error: uncaughtException: dbConfig is not defined
+ReferenceError: dbConfig is not defined
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:33:5)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:40:03 +03:00 [logging] error: uncaughtException: Users.init is not a function
+TypeError: Users.init is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:45:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:40:31 +03:00 [logging] error: uncaughtException: Users.init is not a function
+TypeError: Users.init is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:45:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:40:44 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:40:48 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:40:48 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:41:06 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:42:44 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 15:43:24 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 15:43:38 +03:00 [logging] error: uncaughtException: Cannot read property 'createdAt' of undefined
+TypeError: Cannot read property 'createdAt' of undefined
+    at Model._initValues (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3133:49)
+    at new Model (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/model.js:3107:10)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+13.10.2018 15:44:13 +03:00 [logging] error: uncaughtException: Cannot read property 'init' of undefined
+TypeError: Cannot read property 'init' of undefined
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:17:16)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:44:40 +03:00 [logging] error: uncaughtException: Cannot read property 'init' of undefined
+TypeError: Cannot read property 'init' of undefined
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:17:16)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:44:47 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:45:14 +03:00 [logging] error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/sequelize/lib/sequelize.js:181:13)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:4:11)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+13.10.2018 15:45:34 +03:00 [logging] error: uncaughtException: S is not defined
+ReferenceError: S is not defined
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/users.js:16:21)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:45:43 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:45:46 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:45:46 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:46:22 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:46:24 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:46:24 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:49:46 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:49:51 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:49:51 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:50:18 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:50:57 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:51:00 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:51:00 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:51:22 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:51:23 +03:00 [logging] info: ::1 - - [13/Oct/2018:12:51:23 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 15:51:41 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:52:32 +03:00 [logging] error: uncaughtException: sequelize.addModels is not a function
+TypeError: sequelize.addModels is not a function
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:19:11)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/routes/routes.js:6:12)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+13.10.2018 15:52:53 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 15:55:29 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:00:10 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:07:50 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:10:49 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:10:55 +03:00 [logging] info: ::1 - - [13/Oct/2018:13:10:55 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 16:11:36 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:13:12 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:13:15 +03:00 [logging] info: ::1 - - [13/Oct/2018:13:13:15 +0000] "GET /api/v1/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 16:15:05 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:15:10 +03:00 [logging] info: ::1 - - [13/Oct/2018:13:15:10 +0000] "GET /api/v1/users HTTP/1.1" 200 605 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 16:17:09 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:17:13 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:17:20 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:18:07 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:19:21 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:20:48 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:21:09 +03:00 [logging] info: ::1 - - [13/Oct/2018:13:21:09 +0000] "GET /api/v1/users HTTP/1.1" 200 569 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 16:21:21 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:21:23 +03:00 [logging] info: ::1 - - [13/Oct/2018:13:21:23 +0000] "GET /api/v1/users HTTP/1.1" 200 409 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 16:21:28 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:21:29 +03:00 [logging] info: ::1 - - [13/Oct/2018:13:21:29 +0000] "GET /api/v1/users HTTP/1.1" 200 569 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 16:22:25 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 16:22:27 +03:00 [logging] info: ::1 - - [13/Oct/2018:13:22:27 +0000] "GET /api/v1/users HTTP/1.1" 200 601 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
