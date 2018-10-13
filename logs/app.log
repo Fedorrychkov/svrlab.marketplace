@@ -2348,3 +2348,66 @@ Error: Cannot find module '../models/users'
 13.10.2018 22:53:04 +03:00 [logging] info: app is working on http://localhost:8080
 13.10.2018 22:54:17 +03:00 [logging] info: app is working on http://localhost:8080
 13.10.2018 22:55:09 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 22:57:03 +03:00 [logging] info: app is working on http://localhost:8080
+13.10.2018 23:02:44 +03:00 [logging] error: uncaughtException: listen EADDRINUSE :::8080
+Error: listen EADDRINUSE :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at Server.listen (net.js:1421:7)
+    at Function.listen (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:18:20)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:279:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:696:3)
+13.10.2018 23:03:10 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:19:09 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:19:18 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:21:55 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:23:54 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:24:11 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:24:11 +0000] "GET /api/v1/admin/users HTTP/1.1" 200 601 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:24:11 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:24:11 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8000/api/v1/admin/users" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:24:32 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:24:32 +0000] "GET /api/v1/admin/users HTTP/1.1" 200 601 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:26:20 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:26:34 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:26:44 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:26:44 +0000] "GET /api/v1/admin/users HTTP/1.1" - - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:26:52 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:26:55 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:26:55 +0000] "GET /api/v1/admin/users HTTP/1.1" 200 601 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:27:27 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:27:30 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:27:30 +0000] "GET /api/v1/admin/users HTTP/1.1" 200 601 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:30:40 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:30:42 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:30:42 +0000] "GET /api/v1/admin/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:32:10 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:32:19 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:32:24 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:32:24 +0000] "GET /api/v1/admin/users HTTP/1.1" 200 601 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:32:36 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:35:33 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:35:37 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:35:39 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:35:47 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:35:47 +0000] "GET /api/v1/admin/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:36:24 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:36:26 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:36:26 +0000] "GET /api/v1/admin/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:36:32 +03:00 [logging] info: app is working on http://localhost:8000

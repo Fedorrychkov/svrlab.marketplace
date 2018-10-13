@@ -1,8 +1,20 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+  getUsers() {
+    axios.get('http://localhost:8000/api/v1/admin/users')
+    .then(res => {
+      console.log(res);
+    });
+  }
+
+  componentDidMount() {
+    this.getUsers();
+  }
+
   render() {
     return (
       <div className="App">
