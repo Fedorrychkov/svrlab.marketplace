@@ -14,9 +14,13 @@ const sequelize = new Sequelize(
     });
 
 import Users from './users';
+import Categories from './category';
+import Products from './product';
 
 const models = {
-  Users: Users.init(sequelize, Sequelize)
+  Users: Users.init(sequelize, Sequelize),
+  Categories: Categories.init(sequelize, Sequelize),
+  Products: Products.init(sequelize, Sequelize)
 };
 
 Object.values(models)

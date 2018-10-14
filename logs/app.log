@@ -2434,3 +2434,32 @@ Error: listen EADDRINUSE :::8080
 14.10.2018 05:49:18 +03:00 [logging] info: app is working on http://localhost:8000
 14.10.2018 05:49:39 +03:00 [logging] info: app is working on http://localhost:8000
 14.10.2018 05:50:22 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:56:21 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 06:01:19 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 06:02:02 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 06:02:22 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 06:04:00 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 06:04:56 +03:00 [logging] error: uncaughtException: DataType is not defined
+ReferenceError: DataType is not defined
+    at Function.init (/home/fedorrychkov/projects/svrlab.marketplace/server/models/category.js:15:21)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/models/index.js:22:26)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/app.js:10:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at loader (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/home/fedorrychkov/projects/svrlab.marketplace/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/fedorrychkov/projects/svrlab.marketplace/server/index.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
