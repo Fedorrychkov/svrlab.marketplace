@@ -1,4 +1,4 @@
-// 'use strict';
+'use strict';
 import Sequelize from 'sequelize';
 import winston from '../config/winston';
 

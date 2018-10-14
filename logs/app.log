@@ -2411,3 +2411,21 @@ Error: listen EADDRINUSE :::8080
 13.10.2018 23:36:26 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:36:26 +0000] "GET /api/v1/admin/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
 
 13.10.2018 23:36:32 +03:00 [logging] info: app is working on http://localhost:8000
+13.10.2018 23:57:18 +03:00 [logging] info: ::1 - - [13/Oct/2018:20:57:18 +0000] "GET /api/v1/admin/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+13.10.2018 23:59:19 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:22:04 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:22:32 +03:00 [logging] info: ::1 - - [14/Oct/2018:02:22:32 +0000] "GET /api/v1/admin/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36"
+
+14.10.2018 05:25:50 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:26:16 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:26:34 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:28:46 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:28:50 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:29:12 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:29:37 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:30:37 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:33:24 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:34:52 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:35:02 +03:00 [logging] info: app is working on http://localhost:8000
+14.10.2018 05:35:05 +03:00 [logging] info: app is working on http://localhost:8000
